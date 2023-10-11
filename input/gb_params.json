@@ -1,0 +1,7 @@
+{
+    "learning_rate": ["Real",0.001,0.4],
+    "n_estimators": ["Integer",50,1500], 
+    "min_samples_split": ["Integer",2,15], 
+    "min_samples_leaf": ["Integer",1,20], 
+    "max_depth": ["Integer",3,20]
+}

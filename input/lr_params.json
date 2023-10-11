@@ -1,0 +1,5 @@
+{
+    "C": ["Real",0.01,10.0],
+    "solver": ["Categorical",["lbfgs", "liblinear","saga"]],
+    "penalty": ["Categorical",["l2"]]
+}

@@ -1,0 +1,5 @@
+{
+    "C":["Real",0.1,10],
+    "kernel":["Categorical",["linear","rbf","sigmoid"]],
+    "gamma":["Categorical",["scale","auto"]]
+}
